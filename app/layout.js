@@ -1,3 +1,5 @@
+import "./globals.css";
+
 export const metadata = {
   title: "Aplicaciones & Utilidades",
   description: "Aplicaciones y utilidades varias",
