@@ -75,7 +75,7 @@ export default function Home() {
           </div>
           <div>
             <label className="block text-gray-700 font-medium mb-2">
-              Email:
+              mail:
             </label>
             <input
               type="email"
